@@ -2,18 +2,18 @@ apiVersion: v1
 entries:
   argus:
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.346822964-08:00
+    created: "2020-01-16T16:14:52.574216-06:00"
     description: Automated Kubernetes monitoring
-    digest: 1db2a9ba1ace8e038d81428c685627a36be85fa9426a6a84285a788ded7c02cf
+    digest: 60248e353bcb58b5339cf625c3c4a74dc18960337383b95449562e4b9ac53735
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.9.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.346485103-08:00
+    created: "2020-01-16T16:14:52.57381-06:00"
     description: Automated Kubernetes monitoring
     digest: 8a4a410afa317710c283d95c85020338859ae0a2075779edb7b473144683c6d9
     maintainers:
@@ -21,10 +21,10 @@ entries:
       name: LogicMonitor
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.8.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.346192063-08:00
+    created: "2020-01-16T16:14:52.573418-06:00"
     description: Automated Kubernetes monitoring
     digest: a08c828e6adf6531cc1c19fdeaef8c931892254fecb3ed690ba7e1a71ed592cd
     maintainers:
@@ -32,10 +32,10 @@ entries:
       name: LogicMonitor
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.7.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.345913922-08:00
+    created: "2020-01-16T16:14:52.57302-06:00"
     description: Automated Kubernetes monitoring
     digest: 5f0b9bf61fce9f0c29f228cc96a80e288e91564e83c558a53435194338162054
     maintainers:
@@ -43,10 +43,10 @@ entries:
       name: LogicMonitor
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.6.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.34565057-08:00
+    created: "2020-01-16T16:14:52.57266-06:00"
     description: Automated Kubernetes monitoring
     digest: 651cd27e9174432dccdfa6c1ba6f976af8617407080c7d815dd16cd1643f683e
     maintainers:
@@ -54,10 +54,10 @@ entries:
       name: LogicMonitor
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.5.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.345386098-08:00
+    created: "2020-01-16T16:14:52.572277-06:00"
     description: Automated Kubernetes monitoring
     digest: 1b69a545be0e7eb20930c0850f54ba5259a730eabf40e186970295730bbad598
     maintainers:
@@ -65,10 +65,10 @@ entries:
       name: LogicMonitor
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.4.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.345118724-08:00
+    created: "2020-01-16T16:14:52.571925-06:00"
     description: Automated Kubernetes monitoring
     digest: f6a794f1222ab9aac475538765a8694e74f7caa81b78541533503db26ad5221f
     maintainers:
@@ -76,10 +76,10 @@ entries:
       name: LogicMonitor
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.3.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.34484767-08:00
+    created: "2020-01-16T16:14:52.571544-06:00"
     description: Automated Kubernetes monitoring
     digest: 316c7c7d17085a65027667ef4a053062c3b2304b12f2f7e178b1f633baef73b0
     maintainers:
@@ -87,10 +87,10 @@ entries:
       name: Andrew Rynhard
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.2.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.344482683-08:00
+    created: "2020-01-16T16:14:52.57103-06:00"
     description: Automated Kubernetes monitoring
     digest: b5e475acc633064f72e56d604bceb181920e194372807ed7e7384b4b75a8a8eb
     maintainers:
@@ -98,22 +98,22 @@ entries:
       name: Andrew Rynhard
     name: argus
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/argus-0.1.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/argus-0.1.0.tgz
     version: 0.1.0
   collectorset-controller:
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.348356905-08:00
+    created: "2020-01-16T16:14:52.575333-06:00"
     description: Automated collector management
-    digest: 9f657d383f079f7a512c1543068ef238eb502630a9f122b3ae4d4b459f1f5bc9
+    digest: 53d476d03f477a3d5048754cb59310ecb931c2c71ad7eb72d3e6fc167c95a0dd
     maintainers:
     - email: argus@logicmonitor.com
       name: LogicMonitor
     name: collectorset-controller
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/collectorset-controller-0.3.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/collectorset-controller-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.347978384-08:00
+    created: "2020-01-16T16:14:52.574894-06:00"
     description: Automated collector management
     digest: 46f1e1eaa4cc60d24074e6bcc01479f089aec4dbdef20850343afc495c653eba
     maintainers:
@@ -121,10 +121,10 @@ entries:
       name: LogicMonitor
     name: collectorset-controller
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/collectorset-controller-0.2.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/collectorset-controller-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.347130289-08:00
+    created: "2020-01-16T16:14:52.574557-06:00"
     description: Automated collector management
     digest: f73f02ba9a2eccdc4e2d1f52ec2e6c986ecf9375d103a5103f2e46a827949d82
     maintainers:
@@ -132,16 +132,16 @@ entries:
       name: LogicMonitor
     name: collectorset-controller
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/collectorset-controller-0.1.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/collectorset-controller-0.1.0.tgz
     version: 0.1.0
   releasemanager:
   - apiVersion: v1
-    created: 2019-12-13T13:47:38.348659193-08:00
+    created: "2020-01-16T16:14:52.575809-06:00"
     description: Release Manager provides a long-running application that will periodically
       poll the Tiller server installed in your cluster.
-    digest: 990c63394327b228bdded14803dc647e97a4bb789f96b38cfed7784b291a30dd
+    digest: a4393afd7db7efc3144bf05050dea1955c1cf9d8fb3bfd962095ccc361c08540
     name: releasemanager
     urls:
-    - https://logicmonitor.github.com/k8s-helm-charts/releasemanager-0.1.0.tgz
+    - https://zonywhoop.github.io/k8s-helm-charts/releasemanager-0.1.0.tgz
     version: 0.1.0
-generated: 2019-12-13T13:47:38.34403041-08:00
+generated: "2020-01-16T16:14:52.56941-06:00"
